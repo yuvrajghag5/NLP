@@ -12,3 +12,5 @@ numpy
 transformers 
 accelerate 
 torch
+streamlit 
+pandas
