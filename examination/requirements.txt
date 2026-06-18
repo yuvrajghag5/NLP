@@ -1,0 +1,14 @@
+requests
+feedparser
+beautifulsoup4
+dotenv
+sentence-transformers 
+faiss-cpu
+langgraph 
+langchain 
+langchain-core 
+langchain-huggingface 
+numpy
+transformers 
+accelerate 
+torch
